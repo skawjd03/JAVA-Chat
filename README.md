@@ -11,4 +11,5 @@
 <li>파일 업로드기능</li>
 <li>파일 다운로드기능</li>
 
-![Alt Text](./캡처3.png)
+![Alt Text](./캡처3.PNG)
+![Alt Text](./캡처4.PNG)
